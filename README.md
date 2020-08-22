@@ -1,9 +1,4 @@
----
-layout: post
-title: 想在一台电脑好好学知识又想···打游戏.
-categories: python
-tag: python
----
+
 # 想在一台电脑好好学知识又想···打游戏
 
 ## 开始
